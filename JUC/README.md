@@ -9,3 +9,7 @@ juc并发编程
     [ThreadSafe](juc1%2Fsrc%2Fmain%2Fjava%2FThreadSafe) 线程安全问题
 
     [ThreadDesignPattern](juc1%2Fsrc%2Fmain%2Fjava%2FThreadDesignPattern) 线程设计模式
+
+    [atomic](juc1%2Fsrc%2Fmain%2Fjava%2FlockFree%2Fatomic) 无锁编程
+
+    [noChange](juc1%2Fsrc%2Fmain%2Fjava%2FnoChange) 不可变类型
